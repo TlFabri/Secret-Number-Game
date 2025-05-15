@@ -1,0 +1,1 @@
+alert("Digite um número: ");
